@@ -1,0 +1,4 @@
+#root{background:#f00;}
+#box{display: -webkit-box;display: -ms-flexbox;display: flex;height:100px;}
+.box-inner1{-webkit-box-flex: 1;-ms-flex: 1;flex: 1;height:100px;background:#f90;}
+.box-inner2{-webkit-box-flex: 1;-ms-flex: 1;flex: 1;height:100px;background:#ff0;}
